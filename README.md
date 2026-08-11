@@ -1,6 +1,6 @@
 <!-- ============================================================= -->
 
-<!--                         PROFILE HEADER                        -->
+<!--                           HEADER                              -->
 
 <!-- ============================================================= -->
 
@@ -25,53 +25,64 @@ alt="Atai Talantbekovich"
 
 <!-- ============================================================= -->
 
-<!--                           ABOUT                                -->
+<!--                           ABOUT                               -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  I'm a Frontend Developer focused on building modern and maintainable
-  web applications with <strong>React</strong> and <strong>TypeScript</strong>.
+  Frontend Developer focused on building modern and maintainable
+  applications with <strong>React</strong> and <strong>TypeScript</strong>.
 </p>
 
 <p align="center">
-  I enjoy turning ideas and designs into clean, responsive interfaces
-  with reusable components and well-structured frontend architecture.
+  I focus on clean UI, reusable components, responsive layouts and
+  scalable frontend architecture.
 </p>
 
 <p align="center">
-  My experience also includes <strong>cross-platform development</strong>,
-  REST API integration, authentication flows and data-driven applications.
+  Experienced with REST API integration, authentication flows,
+  data-driven interfaces and cross-platform applications.
 </p>
 
 <br/>
 
 <!-- ============================================================= -->
 
-<!--                         CURRENT FOCUS                          -->
+<!--                           FOCUS                               -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">CURRENT FOCUS</h2>
 
-<div align="center">
+<p align="center">
+  <code>React Architecture</code>
+  &nbsp;·&nbsp;
+  <code>TypeScript</code>
+  &nbsp;·&nbsp;
+  <code>UI Engineering</code>
+  &nbsp;·&nbsp;
+  <code>Performance</code>
+</p>
 
-`React Architecture` · `TypeScript` · `UI Engineering` · `Performance`
-`REST API Integration` · `Cross-Platform Development` · `Reusable Components`
-
-</div>
+<p align="center">
+  <code>REST APIs</code>
+  &nbsp;·&nbsp;
+  <code>Cross-Platform</code>
+  &nbsp;·&nbsp;
+  <code>Reusable Components</code>
+</p>
 
 <br/>
 
 <!-- ============================================================= -->
 
-<!--                         TECH STACK                             -->
+<!--                         TECH STACK                            -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">TECH STACK</h2>
 
 <br/>
 
@@ -80,7 +91,7 @@ alt="Atai Talantbekovich"
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,sass,mui,redux&theme=dark"
-    alt="Frontend technologies"
+    alt="Frontend Stack"
   />
 </p>
 
@@ -89,7 +100,7 @@ alt="Atai Talantbekovich"
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=capacitor,android&theme=dark"
-    alt="Cross-platform technologies"
+    alt="Cross Platform Stack"
   />
 </p>
 
@@ -98,7 +109,7 @@ alt="Atai Talantbekovich"
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark"
-    alt="Development tools"
+    alt="Development Tools"
   />
 </p>
 
@@ -106,22 +117,43 @@ alt="Atai Talantbekovich"
 
 <!-- ============================================================= -->
 
-<!--                       WHAT I WORK WITH                         -->
+<!--                     DEVELOPMENT AREAS                         -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">🛠️ What I Work With</h2>
+<h2 align="center">DEVELOPMENT AREAS</h2>
+
+<br/>
 
 <div align="center">
 
-|         Area         | Technologies                                         |
-| :------------------: | :--------------------------------------------------- |
-|     **Frontend**     | React, TypeScript, JavaScript, Vite                  |
-|        **UI**        | MUI, SCSS, Responsive Design, Component Architecture |
-|   **State & Data**   | Redux, Axios, REST APIs                              |
-|  **Cross-Platform**  | Capacitor, Android, iOS                              |
-|    **Development**   | Git, GitHub, Docker, VS Code                         |
-| **Design & Testing** | Figma, Postman                                       |
+<table>
+  <tr>
+    <td align="center" width="260">
+      <strong>UI Engineering</strong><br/>
+      Responsive interfaces<br/>
+      Reusable components<br/>
+      Design systems
+    </td>
+
+```
+<td align="center" width="260">
+  <strong>Frontend Architecture</strong><br/>
+  Scalable structure<br/>
+  State management<br/>
+  Maintainable code
+</td>
+
+<td align="center" width="260">
+  <strong>API Integration</strong><br/>
+  REST APIs<br/>
+  Authentication<br/>
+  Data-driven applications
+</td>
+```
+
+  </tr>
+</table>
 
 </div>
 
@@ -129,35 +161,19 @@ alt="Atai Talantbekovich"
 
 <!-- ============================================================= -->
 
-<!--                        DEVELOPMENT                             -->
+<!--                       CONTRIBUTIONS                           -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">💡 Development Approach</h2>
-
-<p align="center">
-  <strong>Clean UI</strong> ·
-  <strong>Reusable Components</strong> ·
-  <strong>Scalable Architecture</strong> ·
-  <strong>Responsive Design</strong> ·
-  <strong>Maintainable Code</strong>
-</p>
+<h2 align="center">CONTRIBUTIONS</h2>
 
 <br/>
 
-<!-- ============================================================= -->
-
-<!--                         CONTRIBUTIONS                          -->
-
-<!-- ============================================================= -->
-
-<h2 align="center">🐍 Contributions</h2>
-
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/ocean.gif"
     width="90%"
-    alt="GitHub contribution snake"
+    alt="GitHub Contribution Snake"
   />
 </p>
 
@@ -165,11 +181,11 @@ alt="Atai Talantbekovich"
 
 <!-- ============================================================= -->
 
-<!--                           GITHUB                               -->
+<!--                       GITHUB STATS                            -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GITHUB STATISTICS</h2>
 
 <br/>
 
@@ -201,11 +217,11 @@ alt="Top Languages"
 
 <!-- ============================================================= -->
 
-<!--                          CONNECT                               -->
+<!--                           CONNECT                             -->
 
 <!-- ============================================================= -->
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">CONNECT</h2>
 
 <p align="center">
 
@@ -229,7 +245,7 @@ alt="Top Languages"
 
 <!-- ============================================================= -->
 
-<!--                           FOOTER                               -->
+<!--                           FOOTER                              -->
 
 <!-- ============================================================= -->
 
