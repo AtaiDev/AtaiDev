@@ -1,76 +1,248 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- ============================================================= -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+<!--                         ABOUT ME                              -->
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<!-- ============================================================= -->
+
+<div align="center">
+
+  <h1>
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=70&lines=Atai+Talantbekovich;Frontend+Developer;React+%7C+TypeScript+%7C+UI+Engineering"
+      alt="Atai Talantbekovich"
+    />
+  </h1>
+
+  <p>
+    <strong>Frontend Developer</strong> focused on building modern,
+    responsive and scalable digital interfaces.
+  </p>
+
+  <p>
+    React · TypeScript · Vite · UI Engineering · Cross-Platform
+  </p>
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                         INTRO                                  -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## About Me
+
+</div>
+
+<p align="center">
+  I build clean and scalable interfaces with a strong focus on
+  <strong>user experience, reusable components and maintainable architecture</strong>.
+</p>
+
+<p align="center">
+  My main focus is <strong>React + TypeScript</strong>, while also working
+  with cross-platform applications and REST APIs.
+</p>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+`01` Building modern interfaces
+`02` Developing reusable UI components
+`03` Working with REST APIs and application architecture
+`04` Creating web & cross-platform applications
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
-<hr/>
+
+<!-- ============================================================= -->
+
+<!--                       CURRENT FOCUS                            -->
+
+<!-- ============================================================= -->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
+## Current Focus
+
 </div>
 
-<hr/>
+<p align="center">
+  <strong>Frontend Architecture</strong> ·
+  <strong>UI Engineering</strong> ·
+  <strong>Performance</strong> ·
+  <strong>Cross-Platform Development</strong>
+</p>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                         CONNECT                                -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## Connect
+
+<a href="https://www.linkedin.com/in/atai-toktomambetov-471a5234b/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://github.com/AtaiDev">
+  <img
+    src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
 </div>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                       TECH STACK                              -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## Tech Stack
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,vite,html,css,sass,mui,redux&theme=dark" alt="Frontend technologies"/>
+
+### Mobile & Cross-Platform
+
+<img src="https://skillicons.dev/icons?i=capacitor,android&theme=dark" alt="Cross-platform technologies"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman&theme=dark" alt="Development tools"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                       DEVELOPMENT                              -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## Development Approach
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="250">
+      <strong>Architecture</strong><br/>
+      Scalable and maintainable frontend structure
+    </td>
+    <td align="center" width="250">
+      <strong>UI Engineering</strong><br/>
+      Clean, responsive and consistent interfaces
+    </td>
+    <td align="center" width="250">
+      <strong>Integration</strong><br/>
+      REST APIs, authentication and data-driven UI
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                         CONTRIBUTIONS                          -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## Contributions
+
+<br/>
+
+<img
+src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/github-snake-dark.svg"
+alt="GitHub contribution snake"
+width="90%"
+/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================= -->
+
+<!--                           STATS                                -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+## GitHub Statistics
+
+<br/>
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=AtaiDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=CBD5E1&ring_color=3B82F6"
+alt="GitHub statistics"
+/>
+
+<img
+height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AtaiDev&theme=github-dark-blue&hide_border=true"
+alt="GitHub streak"
+/>
 
 <br/><br/>
 
-<hr/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaiDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&langs_count=8"
+alt="Top languages"
+/>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
+
+<!-- ============================================================= -->
+
+<!--                            FOOTER                              -->
+
+<!-- ============================================================= -->
+
+<div align="center">
+
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:172554,100:1E40AF&height=2&section=footer"
+width="100%"
+alt=""
+/>
+
+<br/><br/>
+
+<samp>Designing interfaces. Building products. Improving every day.</samp>
+
+</div>
