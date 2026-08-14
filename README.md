@@ -34,8 +34,9 @@
 
 <hr/>
 
-<h2 align="center">Technologies I Work With</h2>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=24&center=true&vCenter=true&width=500&height=50&duration=1&pause=999999&color=8BBDFF&lines=Technologies+I+Work+With" />
+</div>
 <div align="center">
 
   <h3>Languages</h3>
@@ -45,7 +46,6 @@
   <h3>Frontend & UI</h3>
 
   <img src="https://skillicons.dev/icons?i=react,redux,vite,mui,bootstrap,tailwind,scss&perline=7" />
-
 
   <h3>Mobile Development</h3>
 
