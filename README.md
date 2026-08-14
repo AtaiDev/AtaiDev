@@ -78,7 +78,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=24&center=true&vCenter=true&width=500&height=50&duration=1&pause=999999&color=8BBDFF&lines=GitHub+Stats" />
 </div>
 
 <div align="center">
@@ -104,11 +104,7 @@
 
 </div>
 
-<br/><br/>
-
 <hr/>
-
-<br/>
 
 <div align="center">
 
@@ -119,5 +115,3 @@
   </a>
 
 </div>
-
-<br/>
