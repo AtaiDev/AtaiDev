@@ -77,9 +77,9 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats</h2>
-
-<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/github-contribution-grid-snake.svg" alt="GitHub Contributions" />
+</div>
 
 <div align="center">
 
@@ -94,8 +94,6 @@
     src="https://github-readme-stats-salesp07.vercel.app/api?username=AtaiDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"
     alt="GitHub stats"
   />
-
-  <br/>
 
   <img
     width="325"
