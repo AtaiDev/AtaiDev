@@ -67,8 +67,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=24&center=true&vCenter=true&width=500&height=50&duration=1&pause=999999&color=8BBDFF&lines=My+Contributions" />
 </div>
 
-<br/>
-
 <div align="center">
   <img
     alt="GitHub contribution graph"
