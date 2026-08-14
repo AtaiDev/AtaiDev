@@ -64,18 +64,17 @@
 <hr/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=24&center=true&vCenter=true&width=500&height=50&duration=1&pause=999999&color=8BBDFF&lines=My+Contributions" />
+</div>
 
-  <h2>🐍 My Contributions</h2>
+<br/>
 
-  <br/>
-
+<div align="center">
   <img
-    alt="snake eating my contributions"
+    alt="GitHub contribution graph"
     src="https://raw.githubusercontent.com/AtaiDev/AtaiDev/output/github-contribution-grid-snake.svg"
+    style="max-width: 100%;"
   />
-
-  <br/><br/><br/>
-
 </div>
 
 <hr/>
